@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitchH10
 - 👀 I’m interested in everything, I get passionate very quickly
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning C++ multi-threading
 - 💞️ I’m looking to collaborate on Java projects and C++ 
 - 📫 How to reach me: mjh10@live.com
 
